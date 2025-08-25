@@ -107,7 +107,8 @@ const Footer = () => {
                   className="text-gray-300 hover:text-orange-400 transition-colors duration-200 text-sm"
                   aria-label="Call OAC D-BUILD LTD"
                 >
-                  +234 801 234 5678
+                  +234 706 555 0354 <br />
+                  +234 7059965090
                 </a>
               </div>
 
@@ -131,7 +132,7 @@ const Footer = () => {
                   className="text-gray-300 hover:text-orange-400 transition-colors duration-200 text-sm"
                   aria-label="Email OAC D-BUILD LTD"
                 >
-                  info@oacdbuild.com
+                  oacdbuild@gmail.com
                 </a>
               </div>
 
@@ -158,11 +159,9 @@ const Footer = () => {
                 </svg>
                 <div className="text-sm">
                   <p className="text-gray-300 leading-relaxed">
-                    123 Construction Avenue,
-                    <br />
-                    Victoria Island, Lagos,
-                    <br />
-                    Nigeria
+                    By Magaji House, Kpaduma 3, <br /> Asokoro Extension, Abuja.
+                    No. <br /> 2 liverpool Avenue, Peace Eastate <br /> Soluyi
+                    Gbagada, Lagos.
                   </p>
                   {/* Google Maps Link */}
                   <a
@@ -202,7 +201,7 @@ const Footer = () => {
 
               {/* Facebook */}
               <a
-                href="https://facebook.com/oacdbuild"
+                href="https://www.facebook.com/share/1Jce1Jofbq"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center hover:bg-blue-600 transition-colors duration-200 group"

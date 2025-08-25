@@ -8,43 +8,39 @@ const TestimonialsPage = () => {
   const testimonials = [
     {
       id: 1,
-      name: "Sarah Johnson",
-      project: "Residential Extension, Lagos",
-      rating: 5,
+      name: "Eze Samuel",
+      project: "Residential Extension in Lagos",
       review:
-        "OAC D-Build delivered exceptional quality on our home extension. Their attention to detail and professional approach exceeded our expectations. The project was completed on time and within budget.",
-      image:
-        "https://images.unsplash.com/photo-1494790108755-2616c6106898?w=150&h=150&fit=crop&crop=face",
+        "OAC D-BUILD transformed our home with exceptional craftsmanship. Their attention to detail and professional approach made our extension project seamless and stress-free.",
+      rating: 5,
+      image: "/samuel.webp",
     },
     {
       id: 2,
-      name: "Michael Adebayo",
-      project: "Commercial Office Building, Abuja",
-      rating: 5,
+      name: "Zainab Hussaini",
+      project: "Commercial Renovation",
       review:
-        "Outstanding construction company! They transformed our vision into reality with remarkable precision. The team was professional, efficient, and delivered superior craftsmanship throughout the entire project.",
-      image:
-        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+        "Outstanding work on our office renovation. The team delivered on time and within budget while maintaining the highest quality standards throughout the project.",
+      rating: 5,
+      image: "salome.jpeg",
     },
     {
       id: 3,
-      name: "Elizabeth Okafor",
-      project: "Luxury Villa, Victoria Island",
-      rating: 5,
+      name: "Iniso Emmanuel",
+      project: "Kitchen Remodel",
       review:
-        "From design to completion, OAC D-Build provided exceptional service. Their expertise in luxury construction is evident in every detail. Highly recommend for premium residential projects.",
-      image:
-        "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+        "From initial consultation to final walkthrough, OAC D-BUILD exceeded our expectations. Our new kitchen is exactly what we dreamed of and more.",
+      rating: 5,
+      image: "/testimoney.jpeg",
     },
     {
       id: 4,
-      name: "David Thompson",
-      project: "Industrial Warehouse, Port Harcourt",
-      rating: 4,
+      name: "Benjamin Obaje",
+      project: "New Construction",
       review:
-        "Reliable and professional construction services. The team handled our complex industrial project with expertise and delivered on schedule. Great communication throughout the process.",
-      image:
-        "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+        "Building our family home with OAC D-BUILD was an incredible experience. Their expertise and dedication to quality is unmatched in the industry.",
+      rating: 5,
+      image: "/obaje.jpeg",
     },
     {
       id: 5,
@@ -53,8 +49,7 @@ const TestimonialsPage = () => {
       rating: 5,
       review:
         "Exceptional workmanship and customer service. OAC D-Build brought our residential complex project to life with outstanding quality and attention to detail. Truly professional team.",
-      image:
-        "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
+      image: "/patience.webp",
     },
     {
       id: 6,
@@ -63,28 +58,16 @@ const TestimonialsPage = () => {
       rating: 5,
       review:
         "Impressive renovation work that exceeded our expectations. The team managed the project efficiently while maintaining high safety standards. Excellent value for money.",
-      image:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+      image: "/docas.jpeg",
     },
     {
       id: 7,
-      name: "Funmi Adesola",
+      name: "Fayose Adesola",
       project: "Modern Duplex, Lekki",
       rating: 4,
       review:
         "Professional construction services with great attention to modern design requirements. The team delivered quality work and maintained excellent communication throughout our project.",
-      image:
-        "https://images.unsplash.com/photo-1534751516642-a1af1ef26a56?w=150&h=150&fit=crop&crop=face",
-    },
-    {
-      id: 8,
-      name: "Robert Chen",
-      project: "Corporate Headquarters, Lagos Island",
-      rating: 5,
-      review:
-        "Outstanding project management and construction quality. OAC D-Build delivered our corporate headquarters on time with exceptional attention to detail and professional standards.",
-      image:
-        "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150&h=150&fit=crop&crop=face",
+      image: "/emma.jpeg",
     },
   ];
 

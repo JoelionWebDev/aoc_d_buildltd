@@ -26,33 +26,39 @@ const ConstructionHomepage = () => {
   const testimonials = [
     {
       id: 1,
-      name: "Sarah Johnson",
+      name: "Eze Samuel",
       project: "Residential Extension",
       review:
         "OAC D-BUILD transformed our home with exceptional craftsmanship. Their attention to detail and professional approach made our extension project seamless and stress-free.",
       rating: 5,
-      image:
-        "https://images.unsplash.com/photo-1494790108755-2616b612b371?w=100&h=100&fit=crop&crop=face",
+      image: "/samuel.webp",
     },
     {
       id: 2,
-      name: "Michael Chen",
+      name: "Zainab Hussaini",
       project: "Commercial Renovation",
       review:
         "Outstanding work on our office renovation. The team delivered on time and within budget while maintaining the highest quality standards throughout the project.",
       rating: 5,
-      image:
-        "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+      image: "salome.jpeg",
     },
     {
       id: 3,
-      name: "Emma Rodriguez",
+      name: "Iniso Emmanuel",
       project: "Kitchen Remodel",
       review:
         "From initial consultation to final walkthrough, OAC D-BUILD exceeded our expectations. Our new kitchen is exactly what we dreamed of and more.",
       rating: 5,
-      image:
-        "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+      image: "/testimoney.jpeg",
+    },
+    {
+      id: 4,
+      name: "Benjamin Obaje",
+      project: "New Construction",
+      review:
+        "Building our family home with OAC D-BUILD was an incredible experience. Their expertise and dedication to quality is unmatched in the industry.",
+      rating: 5,
+      image: "/obaje.jpeg",
     },
   ];
 

@@ -63,7 +63,7 @@ export default function ContactPage() {
           </h1>
           <p className="text-xl md:text-2xl text-blue-100 max-w-3xl mx-auto leading-relaxed">
             Ready to build your dream project? We're here to help you every step
-            of the way. Contact Mburubu Construction today for expert
+            of the way. Contact OAC D-BUILD Limited today for expert
             construction services across Nigeria.
           </p>
         </div>
@@ -238,7 +238,10 @@ export default function ContactPage() {
                       Our Address
                     </h3>
                     <p className="text-gray-600 leading-relaxed">
-                      123 Construction Avenue
+                      By Magaji House, Kpaduma 3, <br /> Asokoro Extension,
+                      Abuja. <br />
+                      No. 2 liverpool Avenue, Peace <br /> Eastate Soluyi
+                      Gbagada, Lagos.
                       <br />
                       Victoria Island, Lagos State
                       <br />
@@ -260,7 +263,7 @@ export default function ContactPage() {
                         href="tel:+2341234567890"
                         className="hover:text-orange-600 transition-colors duration-200"
                       >
-                        +234 123 456 7890
+                        +234 706 5550 354
                       </a>
                     </p>
                     <p className="text-gray-600">
@@ -268,7 +271,7 @@ export default function ContactPage() {
                         href="tel:+2349876543210"
                         className="hover:text-orange-600 transition-colors duration-200"
                       >
-                        +234 987 654 3210
+                        +234 7059 965 090
                       </a>
                     </p>
                   </div>
@@ -287,7 +290,7 @@ export default function ContactPage() {
                         href="mailto:info@mburubuconstruction.com"
                         className="hover:text-orange-600 transition-colors duration-200"
                       >
-                        info@mburubuconstruction.com
+                        oacdbuild@gmail.com
                       </a>
                     </p>
                     <p className="text-gray-600">
@@ -295,7 +298,7 @@ export default function ContactPage() {
                         href="mailto:projects@mburubuconstruction.com"
                         className="hover:text-orange-600 transition-colors duration-200"
                       >
-                        projects@mburubuconstruction.com
+                        ochalamikeoo@gmail.com
                       </a>
                     </p>
                   </div>
@@ -325,12 +328,12 @@ export default function ContactPage() {
             {/* Additional Info Card */}
             <div className="bg-gradient-to-br from-blue-600 to-blue-800 rounded-2xl shadow-2xl p-8 text-white">
               <h3 className="text-2xl font-bold mb-4">
-                Why Choose Mburubu Construction?
+                Why Choose OAC D-BUILD Limited?
               </h3>
               <ul className="space-y-3 text-blue-100">
                 <li className="flex items-center space-x-3">
                   <CheckCircle className="w-5 h-5 text-green-400 flex-shrink-0" />
-                  <span>Over 15 years of construction experience</span>
+                  <span>Over 10 years of construction experience</span>
                 </li>
                 <li className="flex items-center space-x-3">
                   <CheckCircle className="w-5 h-5 text-green-400 flex-shrink-0" />
@@ -357,20 +360,20 @@ export default function ContactPage() {
             Ready to Start Your Project?
           </h2>
           <p className="text-xl text-orange-100 mb-8 leading-relaxed">
-            Don't wait any longer. Contact Mburubu Construction today and let's
+            Don't wait any longer. Contact OAC D-BUILD Limited today and let's
             turn your vision into reality. We're committed to delivering
             exceptional results on time and within budget.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+2341234567890"
+              href="tel:+2347065550354"
               className="inline-flex items-center justify-center space-x-2 bg-white text-orange-600 font-bold py-4 px-8 rounded-lg hover:bg-gray-100 transition-colors duration-200"
             >
               <Phone className="w-5 h-5" />
               <span>Call Now</span>
             </a>
             <a
-              href="mailto:info@mburubuconstruction.com"
+              href="mailto:ochalamikeoo@gmail.com"
               className="inline-flex items-center justify-center space-x-2 border-2 border-white text-white font-bold py-4 px-8 rounded-lg hover:bg-white hover:text-orange-600 transition-all duration-200"
             >
               <Mail className="w-5 h-5" />
@@ -384,7 +387,7 @@ export default function ContactPage() {
       <footer className="bg-gray-900 text-white py-8 px-4">
         <div className="max-w-7xl mx-auto text-center">
           <h3 className="text-2xl font-bold text-orange-500 mb-2">
-            Mburubu Construction
+            OAC D-BUILD Limited
           </h3>
           <p className="text-gray-400">Building Excellence Across Nigeria</p>
         </div>
